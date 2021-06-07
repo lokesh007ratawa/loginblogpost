@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+
+.nav-link-gdc{
+  text-decoration: none !important;
+  margin-left: 50%;
+}
+.nav-link-signup{
+  text-decoration: none !important;
+  /* margin-left: 60%; */  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.signup_btn{
+  display :flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.msg_error{
+  color:red;
+}
+.blog_div_logout{
+  display:flex;justify-content:flex-end;margin-right:5%;margin-top:5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Heading_custom_0 {
+  font-size: 20px;
+  font-family: 'Titillium Web', sans-serif;
+  color: rgb(39, 44, 49);
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0px;
+  padding: 0;
+}
+.headingCloseTopW{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.closeIco{
+  font-size: 14px;
+  line-height: 20px;
+  color: rgb(39, 44, 49);
+  cursor: pointer;
+}
+.pdB16{
+  padding-bottom: 16px !important;
+}
+.container_cu{
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 3.84px 0.16px rgba(115, 129, 143, 0.7);
+  overflow: hidden;
 }

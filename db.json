@@ -1,0 +1,216 @@
+{
+  "authorName": [
+    {
+      "id": 1,
+      "authorName": "Rakesh"
+    },
+    {
+      "id": 2,
+      "authorName": "Amit"
+    },
+    {
+      "id": 3,
+      "authorName": "Santosh"
+    },
+    {
+      "id": 4,
+      "authorName": "Dharmendra"
+    },
+    {
+      "id": 5,
+      "authorName": "Anjali"
+    },
+    {
+      "id": 6,
+      "authorName": "Gaurav"
+    },
+    {
+      "id": 7,
+      "authorName": "Sinith"
+    },
+    {
+      "id": 8,
+      "authorName": "Nikhi"
+    },
+    {
+      "id": 9,
+      "authorName": "Aakanksha"
+    },
+    {
+      "id": 10,
+      "authorName": "Lokesh"
+    },
+    {
+      "id": 11,
+      "authorName": "Rocky"
+    }
+  ],
+  "signup": [
+    {
+      "firstName": "lokesh",
+      "lastName": "ratawa",
+      "email": "lok@gmail.com",
+      "userName": "lokesh",
+      "password": "Loke@123",
+      "confirmPassword": "Loke@123",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "firstName": "garima",
+      "lastName": "ok",
+      "email": "g@gmail.com",
+      "userName": "garima",
+      "password": "Garima@123",
+      "confirmPassword": "Garima@123",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "firstName": "asas",
+      "lastName": "sdsdsd",
+      "email": "admin@gmail.com",
+      "userName": "sdsd",
+      "password": "Loki@12345",
+      "confirmPassword": "Loki@12345",
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "firstName": "asas",
+      "lastName": "sdsdsd",
+      "email": "admin@gmail.com",
+      "userName": "loki",
+      "password": "Loki@12345",
+      "confirmPassword": "Loki@12345",
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "firstName": "asas",
+      "lastName": "sdsdsd",
+      "email": "admin@gmail.com",
+      "userName": "sdsd",
+      "password": "Lokesh@123",
+      "confirmPassword": "Lokesh@123",
+      "gender": "Male",
+      "id": 19
+    },
+    {
+      "firstName": "asas",
+      "lastName": "sdsdsd",
+      "email": "admin@gmail.com",
+      "userName": "sdsd",
+      "password": "Lokesh@123",
+      "confirmPassword": "Lokesh@123",
+      "gender": "Male",
+      "id": 20
+    },
+    {
+      "firstName": "yash",
+      "lastName": "vardhan",
+      "email": "yash@gmail.com",
+      "userName": "yash",
+      "password": "Yash@123",
+      "confirmPassword": "Yash@123",
+      "gender": "Male",
+      "id": 21
+    },
+    {
+      "firstName": "yash",
+      "lastName": "vardhan",
+      "email": "yash@gmail.com",
+      "userName": "yash",
+      "password": "Yash@123",
+      "confirmPassword": "Yash@123",
+      "gender": "Male",
+      "id": 22
+    }
+  ],
+  "blogPost": [
+    {
+      "blogTitle": "Study",
+      "blogContnet": "Learn about programming",
+      "authorName": "Amit",
+      "id": "1"
+    },
+    {
+      "blogTitle": "dsddsdsds",
+      "blogContnet": "sasassasa",
+      "authorName": "Amit",
+      "id": "dkGkK6w"
+    },
+    {
+      "blogTitle": "lkalkslaksa",
+      "blogContnet": "sasassasa",
+      "authorName": "Gaurav",
+      "id": "b2wz46h"
+    },
+    {
+      "blogTitle": "good",
+      "blogContnet": "good for heath",
+      "authorName": "Aakanksha",
+      "id": "ZGlsGjq"
+    },
+    {
+      "blogTitle": "dsddsdsds",
+      "blogContnet": "aaaa",
+      "authorName": "Santosh",
+      "id": "S4DsqGn"
+    },
+    {
+      "blogTitle": "Nature",
+      "blogContnet": "All good things which we have that was given by nature only",
+      "authorName": "Rocky",
+      "id": "jautUKg"
+    },
+    {
+      "blogTitle": "Study",
+      "blogContnet": "Learn about programming",
+      "authorName": "Amit",
+      "id": "5"
+    },
+    {
+      "blogTitle": "Study",
+      "blogContnet": "Learn about programming",
+      "authorName": "Amit",
+      "id": "mxnmna"
+    },
+    {
+      "blogTitle": "Study",
+      "blogContnet": "Learn about programming",
+      "authorName": "Amit",
+      "id": "lokoijh"
+    },
+    {
+      "blogTitle": "Study",
+      "blogContnet": "Learn about programming",
+      "authorName": "Amit",
+      "id": "8"
+    },
+    {
+      "blogTitle": "Yash ka raaj",
+      "blogContnet": "aish kero",
+      "authorName": "Anjali",
+      "id": "sQatVHF"
+    },
+    {
+      "blogTitle": "dsddsdsds",
+      "blogContnet": "sssssssssssssssss",
+      "authorName": "Rakesh",
+      "id": "cwe_UqJ"
+    },
+    {
+      "blogTitle": "asdasasa",
+      "blogContnet": "asasasasassasa",
+      "authorName": "Nikhi",
+      "id": "SwmALyD"
+    },
+    {
+      "blogTitle": "",
+      "blogContnet": "",
+      "authorName": "",
+      "id": "rIh5w8r"
+    }
+  ]
+}
